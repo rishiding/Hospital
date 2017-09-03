@@ -43,7 +43,7 @@
             android:button="@null"
             android:gravity="center_horizontal"
             android:textSize="14sp"
-            android:text="软装魔法"
+            android:text="管理"
             android:textColor="@color/button_textcolor"
             android:layout_marginBottom="5dp"/>
 

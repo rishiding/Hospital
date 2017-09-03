@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">就医挂号</string>
+    <string name="app_name">预约挂号</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

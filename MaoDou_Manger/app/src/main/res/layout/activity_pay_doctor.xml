@@ -7,6 +7,6 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.cyansoft.maodou_manger.Activity.PayDoctorActivity">
+    tools:context="com.cyansoft.reserve.Activity.PayDoctorActivity">
 
 </RelativeLayout>
